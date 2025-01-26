@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **REACT.js and NEXT.js**
 
-- 🤝 I’m looking for help with **Aedukead**
+- 🤝 I’m looking for help with my **Adukeade food website**
 
 - 💬 Ask me about **HTML,CSS,JavaScript and REACT**
 
